@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @punyaslokaprusty
 - 👀 I’m interested in Data Science and Data Analysis and AI
-- 🌱 I’m currently learning Data Science going through a Full revision on My Data Science course
-- 💞️ I’m looking to collaborate on hackthons for Data Science and Machine Learning Projects in Beginer to Intermediate levels.
+- 🌱 I’m currently working as Data Scientist In Gen AI Field
+- 💞️ I’have Judged a Hackathon Contest at NITTE Bengaluru for a Flied In AI Community
 - 📫 How to reach me .
 - Email me at punyaslokaprusty@gmail.com
 Also Whatsapp @ +917058065080
